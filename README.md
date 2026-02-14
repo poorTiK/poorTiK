@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arkadii and I'm a ..NET Software Engineer, located in Poland.</p>
+<p align="left">My name is Arkadii and I'm a Software Engineer, located in Poland.</p>
 
 ###
 
