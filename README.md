@@ -14,9 +14,9 @@
 - 🧱 I like clean, maintainable code: MVVM, DI, clean architecture, and tests that actually catch things.
 - 🔄 I've helped move a large product from .NET Framework to .NET 8+, and I turned shared UI into NuGet packages that other teams use.
 - 👥 I lead a small team, and I enjoy code reviews, mentoring, and helping people grow.
-- 🍎 After hours I build a native SwiftUI app for macOS and iPad.
+- 🍎 After hours I build a native SwiftUI app for Apple devices.
 - 🤖 I'm into AI-assisted development and use Claude Code and Copilot every day.
-- 🗣️ I speak English, Ukrainian, and Russian, and I'm learning Polish.
+- 🗣️ I speak English, Ukrainian, and russian, and I'm learning Polish.
 
 ###
 
